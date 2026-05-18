@@ -50,7 +50,7 @@ export default function FrontPage(props) {
             <h3>Documentation →</h3>
             <p>
               Learn more about Faust.js through tutorials, guides and reference
-              in our documentation.
+              in our documentation!
             </p>
           </Link>
 
